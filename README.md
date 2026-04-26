@@ -107,9 +107,5 @@ Software Developer with a strong foundation in computer science, focused on buil
 ---
 
 <p align="center">
-  <b>Built with precision, discipline, and 🟡⚫ energy.</b>
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:F4C400&height=120&section=footer"/>
 </p>
