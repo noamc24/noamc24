@@ -22,12 +22,12 @@
 
 ## About Me
 
-I am a Software Engineer and Computer Science student focused on building reliable, scalable, and maintainable systems.
+Software Engineer focused on building scalable, maintainable systems with strong foundations in computer science.
 
-- Backend development and system design  
-- Building real-world applications  
-- Strong focus on clean code and architecture  
-- Continuous learning and improvement  
+- Backend development & system design  
+- Real-world application development  
+- Clean architecture & code quality  
+- Continuous learning mindset  
 
 ---
 
@@ -40,6 +40,12 @@ I am a Software Engineer and Computer Science student focused on building reliab
   </a>
   <a href="https://en.cppreference.com/w/">
     <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+  <a href="https://www.java.com">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+  <a href="https://www.python.org">
+    <img src="https://skillicons.dev/icons?i=python" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://skillicons.dev/icons?i=js" />
@@ -86,7 +92,6 @@ I am a Software Engineer and Computer Science student focused on building reliab
 ## Featured Projects
 
 ### Social Network Platform
-
 Instagram-inspired system with authentication, posts, likes, comments, media uploads, and follow system.
 
 **Tech:** Node.js, Express, MongoDB, JavaScript  
@@ -94,12 +99,11 @@ Instagram-inspired system with authentication, posts, likes, comments, media upl
 ---
 
 ### Traffic Safety Center
-
-Production website for a real business with product catalog, filtering, and quote-based flow.
+Production business website with product catalog, filtering, and quote-based flow.
 
 🔗 https://www.trafficsafetycenter.com  
 
-**Tech:** Node.js, Express, JavaScript, HTML, CSS, Bootstrap  
+**Tech:** Node.js, Express, JavaScript, HTML, CSS  
 
 ---
 
@@ -116,14 +120,8 @@ Production website for a real business with product catalog, filtering, and quot
 ## GitHub Overview
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=noamc24&show_icons=true&hide_border=true&title_color=F4C400&icon_color=F4C400&text_color=ffffff&bg_color=000000" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=noamc24&layout=compact&hide_border=true&title_color=F4C400&text_color=ffffff&bg_color=000000" 
-    height="170"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=noamc24&show_icons=true&hide_border=true&title_color=F4C400&icon_color=F4C400&text_color=ffffff&bg_color=000000" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noamc24&layout=compact&hide_border=true&title_color=F4C400&text_color=ffffff&bg_color=000000" height="170"/>
 </p>
 
 ---
@@ -131,9 +129,7 @@ Production website for a real business with product catalog, filtering, and quot
 ## Contribution Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=noamc24&bg_color=000000&color=ffffff&line=F4C400&point=F4C400&area=true&hide_border=true" 
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noamc24&bg_color=000000&color=ffffff&line=F4C400&point=F4C400&area=true&hide_border=true"/>
 </p>
 
 ---
