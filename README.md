@@ -1,99 +1,126 @@
-<!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F4C400&height=180&section=header&text=Noam%20-%20Software%20Engineer&fontSize=35&fontColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F4C400&height=180&section=header&text=Noam%20Cohen&fontSize=42&fontColor=000000&animation=fadeIn" />
 </p>
 
-<h1 align="center">Noam</h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">Hi, I'm Noam 👋</h1>
+<h3 align="center">Software Engineer | Computer Science Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=noamc24&label=Profile%20Views&color=f4c400&style=flat" />
+  <a href="https://github.com/noamc24">
+    <img src="https://img.shields.io/badge/GitHub-noamc24-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-Contact-F4C400?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=noamc24&label=Profile%20Views&color=f4c400&style=for-the-badge" />
 </p>
 
 ---
 
-## 🧠 Profile
+## About Me
 
-Software Engineer with a strong foundation in computer science and hands-on experience building production-ready systems.  
-Focused on writing clean, maintainable code and designing scalable architectures.
+I am a Software Engineer and Computer Science student with a strong interest in building practical, reliable, and maintainable software systems.
 
-- 🎓 B.Sc. Computer Science (in progress)  
-- 💻 Experience with backend systems, APIs, and full application flows  
-- ⚙️ Strong problem-solving and analytical thinking  
-- 🚀 Passion for building real-world products  
+My work focuses on backend development, web applications, databases, clean architecture, and solving real-world problems through code.
+
+- Studying Computer Science  
+- Building real-world software projects  
+- Interested in backend systems, APIs, databases, and software architecture  
+- Focused on clean code, maintainability, and continuous improvement  
 
 ---
 
-## 🛠️ Technical Skills
+## Tech Stack
 
 ### Languages
-- C / C++
-- JavaScript
-
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-
-### Databases
-- MongoDB
-
-### Tools & Technologies
-- Git & GitHub
-- VS Code
-- Postman
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noamc24&show_icons=true&theme=default&title_color=000000&icon_color=F4C400&text_color=000000&bg_color=ffffff" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noamc24&theme=default&ring=F4C400&fire=F4C400&currStreakLabel=000000" height="170"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noamc24&layout=compact&title_color=000000&text_color=000000&bg_color=ffffff" />
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 🚀 Projects
+## Featured Projects
 
-### Social Network Platform (Instagram-like)
-Full-stack system implementing:
-- Authentication (JWT)
-- Posts, likes, comments
+### Social Network Platform
+
+An Instagram-inspired social network platform with authentication, posts, likes, comments, media uploads, and follow/unfollow functionality.
+
+**Main features:**
+- User authentication
+- Posts, likes, and comments
 - Follow / unfollow system
-- Media upload (images & videos)
-- Responsive UI
+- Image and video uploads
+- Responsive user interface
 
-**Tech:** Node.js, Express, MongoDB, JavaScript
+**Tech:** Node.js, Express, MongoDB, JavaScript, HTML, CSS
 
 ---
 
 ### Traffic Safety Center
-Production website for a real business.
 
-- Product catalog with dynamic filtering
-- Custom UI/UX and responsive design
-- SEO optimization and structured data
-- Order system (quote-based)
+A production business website for a traffic safety company, including a product catalog, quote-based order flow, responsive UI, and SEO-oriented structure.
 
-🔗 https://www.trafficsafetycenter.com
+**Main features:**
+- Product catalog
+- Dynamic product filtering
+- Quote request flow
+- Responsive design
+- Search engine optimization improvements
 
----
+**Website:** https://www.trafficsafetycenter.com
 
-## 🎯 Engineering Focus
-
-- System design fundamentals  
-- Clean architecture & separation of concerns  
-- Performance and optimization  
-- Real-world problem solving  
+**Tech:** Node.js, Express, JavaScript, HTML, CSS, Bootstrap
 
 ---
 
-## 📫 Contact
+## Engineering Focus
+
+- Backend development  
+- REST API design  
+- Database modeling  
+- Clean architecture  
+- Performance optimization  
+- Maintainable code  
+- Real-world product development  
+
+---
+
+## GitHub Overview
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=noamc24&show_icons=true&hide_border=true&title_color=F4C400&icon_color=F4C400&text_color=ffffff&bg_color=000000" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=noamc24&layout=compact&hide_border=true&title_color=F4C400&text_color=ffffff&bg_color=000000" 
+    height="170"
+  />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=noamc24&bg_color=000000&color=ffffff&line=F4C400&point=F4C400&area=true&hide_border=true" 
+  />
+</p>
+
+---
+
+## Contact
 
 <p align="center">
   <a href="mailto:your@email.com">
@@ -107,9 +134,9 @@ Production website for a real business.
 ---
 
 <p align="center">
-  <b>Built with discipline, precision, and a bit of 🟡⚫ energy</b>
+  <b>Software built with precision, discipline, and 🟡⚫ energy.</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" />
 </p>
