@@ -12,7 +12,7 @@
   <a href="mailto:your@email.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-Contact-F4C400?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank" rel="noopener noreferrer">
+  <a href="https://linkedin.com/in/Noamon" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=noamc24&label=Profile%20Views&color=f4c400&style=for-the-badge" />
