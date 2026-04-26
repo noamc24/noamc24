@@ -12,6 +12,9 @@
   <a href="mailto:your@email.com">
     <img src="https://img.shields.io/badge/Email-Contact-F4C400?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=noamc24&label=Profile%20Views&color=f4c400&style=for-the-badge" />
 </p>
 
@@ -19,14 +22,12 @@
 
 ## About Me
 
-I am a Software Engineer and Computer Science student with a strong interest in building practical, reliable, and maintainable software systems.
+I am a Software Engineer and Computer Science student focused on building reliable, scalable, and maintainable systems.
 
-My work focuses on backend development, web applications, databases, clean architecture, and solving real-world problems through code.
-
-- Studying Computer Science  
-- Building real-world software projects  
-- Interested in backend systems, APIs, databases, and software architecture  
-- Focused on clean code, maintainability, and continuous improvement  
+- Backend development and system design  
+- Building real-world applications  
+- Strong focus on clean code and architecture  
+- Continuous learning and improvement  
 
 ---
 
@@ -34,17 +35,50 @@ My work focuses on backend development, web applications, databases, clean archi
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css" />
+  <a href="https://en.cppreference.com/w/c">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+  <a href="https://en.cppreference.com/w/">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
 </p>
 
 ### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <a href="https://nodejs.org">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+  <a href="https://expressjs.com">
+    <img src="https://skillicons.dev/icons?i=express" />
+  </a>
+  <a href="https://www.mongodb.com">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
 </p>
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <a href="https://git-scm.com">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://github.com">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://code.visualstudio.com">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+  <a href="https://www.postman.com">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
 </p>
 
 ---
@@ -53,33 +87,19 @@ My work focuses on backend development, web applications, databases, clean archi
 
 ### Social Network Platform
 
-An Instagram-inspired social network platform with authentication, posts, likes, comments, media uploads, and follow/unfollow functionality.
+Instagram-inspired system with authentication, posts, likes, comments, media uploads, and follow system.
 
-**Main features:**
-- User authentication
-- Posts, likes, and comments
-- Follow / unfollow system
-- Image and video uploads
-- Responsive user interface
-
-**Tech:** Node.js, Express, MongoDB, JavaScript, HTML, CSS
+**Tech:** Node.js, Express, MongoDB, JavaScript  
 
 ---
 
 ### Traffic Safety Center
 
-A production business website for a traffic safety company, including a product catalog, quote-based order flow, responsive UI, and SEO-oriented structure.
+Production website for a real business with product catalog, filtering, and quote-based flow.
 
-**Main features:**
-- Product catalog
-- Dynamic product filtering
-- Quote request flow
-- Responsive design
-- Search engine optimization improvements
+🔗 https://www.trafficsafetycenter.com  
 
-**Website:** https://www.trafficsafetycenter.com
-
-**Tech:** Node.js, Express, JavaScript, HTML, CSS, Bootstrap
+**Tech:** Node.js, Express, JavaScript, HTML, CSS, Bootstrap  
 
 ---
 
@@ -90,8 +110,6 @@ A production business website for a traffic safety company, including a product 
 - Database modeling  
 - Clean architecture  
 - Performance optimization  
-- Maintainable code  
-- Real-world product development  
 
 ---
 
@@ -126,8 +144,8 @@ A production business website for a traffic safety company, including a product 
   <a href="mailto:your@email.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/noamc24">
-    <img src="https://img.shields.io/badge/GitHub-F4C400?style=for-the-badge&logo=github&logoColor=black" />
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-F4C400?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
 </p>
 
