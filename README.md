@@ -3,16 +3,16 @@
 </p>
 
 <h1 align="center">Hi, I'm Noam 👋</h1>
-<h3 align="center">Software Engineer | Computer Science Student</h3>
+<h3 align="center">Software Developer | Computer Science Student</h3>
 
 <p align="center">
-  <a href="https://github.com/noamc24">
+  <a href="https://github.com/noamc24" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-noamc24-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:your@email.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-Contact-F4C400?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=noamc24&label=Profile%20Views&color=f4c400&style=for-the-badge" />
@@ -22,7 +22,7 @@
 
 ## About Me
 
-Software Engineer focused on building scalable, maintainable systems with strong foundations in computer science.
+Software Developer with a strong foundation in computer science, focused on building scalable and maintainable systems.
 
 - Backend development & system design  
 - Real-world application development  
@@ -35,85 +35,57 @@ Software Engineer focused on building scalable, maintainable systems with strong
 
 ### Languages
 <p>
-  <a href="https://en.cppreference.com/w/c">
+  <a href="https://en.cppreference.com/w/c" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=c" />
   </a>
-  <a href="https://en.cppreference.com/w/">
+  <a href="https://en.cppreference.com/w/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=cpp" />
   </a>
-  <a href="https://www.java.com">
+  <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=java" />
   </a>
-  <a href="https://www.python.org">
+  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=html" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=css" />
   </a>
 </p>
 
 ### Backend & Databases
 <p>
-  <a href="https://nodejs.org">
+  <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
-  <a href="https://expressjs.com">
+  <a href="https://expressjs.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=express" />
   </a>
-  <a href="https://www.mongodb.com">
+  <a href="https://www.mongodb.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=mongodb" />
   </a>
 </p>
 
 ### Tools
 <p>
-  <a href="https://git-scm.com">
+  <a href="https://git-scm.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
-  <a href="https://github.com">
+  <a href="https://github.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://code.visualstudio.com">
+  <a href="https://code.visualstudio.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
-  <a href="https://www.postman.com">
+  <a href="https://www.postman.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=postman" />
   </a>
 </p>
-
----
-
-## Featured Projects
-
-### Social Network Platform
-Instagram-inspired system with authentication, posts, likes, comments, media uploads, and follow system.
-
-**Tech:** Node.js, Express, MongoDB, JavaScript  
-
----
-
-### Traffic Safety Center
-Production business website with product catalog, filtering, and quote-based flow.
-
-🔗 https://www.trafficsafetycenter.com  
-
-**Tech:** Node.js, Express, JavaScript, HTML, CSS  
-
----
-
-## Engineering Focus
-
-- Backend development  
-- REST API design  
-- Database modeling  
-- Clean architecture  
-- Performance optimization  
 
 ---
 
@@ -130,19 +102,6 @@ Production business website with product catalog, filtering, and quote-based flo
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=noamc24&bg_color=000000&color=ffffff&line=F4C400&point=F4C400&area=true&hide_border=true"/>
-</p>
-
----
-
-## Contact
-
-<p align="center">
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-F4C400?style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>
 </p>
 
 ---
