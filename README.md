@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F4C400&height=180&section=header&text=Noam%20Cohen&fontSize=42&fontColor=000000&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:F4C400&height=200&section=header&text=Noam%20Cohen&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer&descAlignY=70&descAlign=50"/>
 </p>
 
 <h1 align="center">Hi, I'm Noam 👋</h1>
@@ -107,9 +107,9 @@ Software Developer with a strong foundation in computer science, focused on buil
 ---
 
 <p align="center">
-  <b>Software built with precision, discipline, and 🟡⚫ energy.</b>
+  <b>Built with precision, discipline, and 🟡⚫ energy.</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:F4C400&height=120&section=footer"/>
 </p>
