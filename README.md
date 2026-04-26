@@ -1,85 +1,115 @@
-<h1 align="center">Hi 👋, I'm Noam</h1>
-<h3 align="center">Computer Science Student | Full-Stack Developer 🚀</h3>
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F4C400&height=180&section=header&text=Noam%20-%20Software%20Engineer&fontSize=35&fontColor=000000" />
+</p>
+
+<h1 align="center">Noam</h1>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=noamc24&label=Profile%20views&color=0e75b6&style=flat" alt="noamc24" />
+  <img src="https://komarev.com/ghpvc/?username=noamc24&label=Profile%20Views&color=f4c400&style=flat" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Profile
 
-- 🎓 Computer Science student  
-- 💻 Building full-stack projects with **Node.js, Express, MongoDB**
-- 🌐 Web development: **HTML, CSS, JavaScript**
-- 🎸 Guitar player & music enthusiast  
-- 🚀 Currently working on real-world web systems  
+Software Engineer with a strong foundation in computer science and hands-on experience building production-ready systems.  
+Focused on writing clean, maintainable code and designing scalable architectures.
 
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongodb,cpp,c,git,github,vscode" />
-</p>
+- 🎓 B.Sc. Computer Science (in progress)  
+- 💻 Experience with backend systems, APIs, and full application flows  
+- ⚙️ Strong problem-solving and analytical thinking  
+- 🚀 Passion for building real-world products  
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Technical Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noamc24&show_icons=true&theme=tokyonight" />
-</p>
+### Languages
+- C / C++
+- JavaScript
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noamc24&theme=tokyonight" />
-</p>
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### Databases
+- MongoDB
+
+### Tools & Technologies
+- Git & GitHub
+- VS Code
+- Postman
 
 ---
 
-## 📈 Most Used Languages
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noamc24&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noamc24&show_icons=true&theme=default&title_color=000000&icon_color=F4C400&text_color=000000&bg_color=ffffff" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noamc24&theme=default&ring=F4C400&fire=F4C400&currStreakLabel=000000" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noamc24&layout=compact&title_color=000000&text_color=000000&bg_color=ffffff" />
 </p>
 
 ---
 
 ## 🚀 Projects
 
-### 🔥 Instagram Clone
-> Full-stack social network with posts, likes, comments & follow system  
-> Built with Node.js, Express & MongoDB  
+### Social Network Platform (Instagram-like)
+Full-stack system implementing:
+- Authentication (JWT)
+- Posts, likes, comments
+- Follow / unfollow system
+- Media upload (images & videos)
+- Responsive UI
+
+**Tech:** Node.js, Express, MongoDB, JavaScript
 
 ---
 
-### 🌐 Traffic Safety Center
-> Business website with product catalog, filters, and custom UI  
-> 👉 https://www.trafficsafetycenter.com  
+### Traffic Safety Center
+Production website for a real business.
+
+- Product catalog with dynamic filtering
+- Custom UI/UX and responsive design
+- SEO optimization and structured data
+- Order system (quote-based)
+
+🔗 https://www.trafficsafetycenter.com
 
 ---
 
-## 🎯 Goals
+## 🎯 Engineering Focus
 
-- 🔥 Become a strong full-stack developer  
-- 📈 Land a student developer position  
-- ⚡ Build impactful real-world systems  
+- System design fundamentals  
+- Clean architecture & separation of concerns  
+- Performance and optimization  
+- Real-world problem solving  
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
 <p align="center">
   <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/noamc24">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-F4C400?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
+<p align="center">
+  <b>Built with discipline, precision, and a bit of 🟡⚫ energy</b>
+</p>
 
-> I can debug code faster with coffee ☕ and guitar breaks 🎸
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+</p>
