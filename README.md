@@ -105,8 +105,7 @@ Software Developer with a strong foundation in computer science, focused on buil
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noamc24&show_icons=true&hide_border=true&title_color=F4C400&icon_color=F4C400&text_color=ffffff&bg_color=000000&hide=issues,contribs" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noamc24&layout=compact&hide_border=true&title_color=F4C400&text_color=ffffff&bg_color=000000" height="170"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=noamc24&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=F4C400&icon_color=F4C400&text_color=ffffff&bg_color=000000&hide=issues,contribs" height="170"/></p>
 
 ---
 
