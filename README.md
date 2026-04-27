@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:F4C400&height=220&section=header&text=Noam%20Cohen&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer&descAlignY=70&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:F4C400&height=200&section=header&text=Noam%20Cohen&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer&descAlignY=70&descAlign=50"/>
 </p>
 
 <h1 align="center">Hi, I'm Noam 👋</h1>
@@ -22,14 +22,12 @@
 
 ## 🚀 About Me
 
-Software Developer focused on building **real-world systems** with strong backend foundations.
+Software Developer focused on building **real-world systems**, not just writing code.
 
-I don’t just write code — I design, build and ship complete systems.
-
-- 🧠 Strong CS fundamentals  
-- ⚙️ Backend & system design  
-- 🏗️ Full-stack project development  
-- 🔍 Problem solving & debugging  
+- 🧠 Strong foundation in Computer Science  
+- ⚙️ Backend & system design mindset  
+- 🏗️ Building full applications from scratch  
+- 🔍 Problem solver with attention to detail  
 
 ---
 
@@ -37,7 +35,7 @@ I don’t just write code — I design, build and ship complete systems.
 
 ```diff
 + Build production-ready applications
-+ Design scalable backend systems
-+ Work with real data & real users
-+ Optimize performance (Lighthouse, SEO)
++ Design scalable backend architectures
++ Work with real data & real use-cases
++ Optimize performance (SEO, Lighthouse)
 + Strong debugging and problem-solving skills
