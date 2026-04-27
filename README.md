@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:F4C400&height=200&section=header&text=Noam%20Cohen&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer&descAlignY=70&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:F4C400&height=220&section=header&text=Noam%20Cohen&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer&descAlignY=70&descAlign=50"/>
 </p>
 
 <h1 align="center">Hi, I'm Noam 👋</h1>
@@ -15,26 +15,29 @@
   <a href="https://linkedin.com/in/Noamon" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=noamc24&label=Profile%20Views&color=f4c400&style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Software Developer focused on building real-world systems — not just writing code.
+Software Developer focused on building **real-world systems** with strong backend foundations.
 
-- 🧠 Strong foundation in Computer Science  
-- ⚙️ Backend & system design oriented  
-- 🏗️ Building full applications from scratch  
-- 🔍 Problem solver with attention to detail  
+I don’t just write code — I design, build and ship complete systems.
+
+- 🧠 Strong CS fundamentals  
+- ⚙️ Backend & system design  
+- 🏗️ Full-stack project development  
+- 🔍 Problem solving & debugging  
 
 ---
 
-## 💥 What I Actually Do
+## 💥 What I Bring
 
 ```diff
-+ Build full-stack applications with real users in mind
-+ Design scalable backend architectures
-+ Implement authentication systems (JWT, sessions)
-+ Optimize performance (SEO, Lighthouse, rendering)
-+ Solve real-world problems, not just academic ones
++ Build production-ready applications
++ Design scalable backend systems
++ Work with real data & real users
++ Optimize performance (Lighthouse, SEO)
++ Strong debugging and problem-solving skills
