@@ -109,13 +109,6 @@ Software Developer with a strong foundation in computer science, focused on buil
 
 ---
 
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noamc24&bg_color=000000&color=ffffff&line=F4C400&point=F4C400&area=true&hide_border=true"/>
-</p>
-
----
 
 ## Featured Work
 
