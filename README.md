@@ -150,7 +150,8 @@ My main interests are software development, backend systems, networking, and cyb
         MongoDB, Google OAuth, Gmail API
       </p>
     </td>
-
+    
+  <tr>
     <td width="50%" valign="top">
       <h3>🎸 FretPath</h3>
       <p>
