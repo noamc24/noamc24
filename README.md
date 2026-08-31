@@ -134,78 +134,36 @@ My main interests are software development, backend systems, networking, and cyb
 ## Featured Work
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔎 Account Discovery</h3>
-      <p>
-        A full-stack platform that analyzes Gmail data with user consent
-        to identify online services associated with an account.
-      </p>
-      <p>
-        Includes Google OAuth authentication, Gmail API integration,
-        backend processing, and persistent data management.
-      </p>
-      <p>
-        <b>Stack:</b> React, TypeScript, Node.js, Express,
-        MongoDB, Google OAuth, Gmail API
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎸 FretPath</h3>
-      <p>
-        An interactive music theory and guitar learning platform built
-        around hands-on exercises, real-time audio, and fretboard visualization.
-      </p>
-      <p>
-        Designed to turn music theory concepts into interactive
-        learning experiences directly in the browser.
-      </p>
-      <p>
-        <b>Stack:</b> JavaScript, Web Audio API, HTML, CSS
-      </p>
-      <p>
-        <a href="https://fretpath.pages.dev"><b>Live Website →</b></a>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚦 Traffic Safety Center</h3>
-      <p>
-        A production website developed for a real traffic safety company,
-        with a focus on performance, responsive design, SEO, and accessibility.
-      </p>
-      <p>
-        The project also includes an automated QA testing agent
-        designed to detect issues and improve reliability.
-      </p>
-      <p>
-        <b>Stack:</b> HTML, CSS, JavaScript, Bootstrap, Node.js
-      </p>
-      <p>
-        <a href="https://www.TrafficSafetyCenter.com"><b>Live Website →</b></a>
-      </p>
-    </td>
-
-    <td width="50%" valign="top">
-      <h3>📱 FinalIg</h3>
-      <p>
-        An Instagram-style social network featuring authentication,
-        posts, likes, comments, user profiles, following, and media uploads.
-      </p>
-      <p>
-        Built as a full-stack application with persistent
-        user and content management.
-      </p>
-      <p>
-        <b>Stack:</b> Node.js, Express, MongoDB, JavaScript
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🔎 Account Discovery</h3>
+<p>A full-stack platform that analyzes Gmail data with user consent to identify online services associated with an account.</p>
+<p>Includes Google OAuth authentication, Gmail API integration, backend processing, and persistent data management.</p>
+<p><b>Stack:</b> React, TypeScript, Node.js, Express, MongoDB, Google OAuth, Gmail API</p>
+</td>
+<td width="50%" valign="top">
+<h3>🎸 FretPath</h3>
+<p>An interactive music theory and guitar learning platform built around hands-on exercises, real-time audio, and fretboard visualization.</p>
+<p>Designed to turn music theory concepts into interactive learning experiences directly in the browser.</p>
+<p><b>Stack:</b> JavaScript, Web Audio API, HTML, CSS</p>
+<p><a href="https://fretpath.pages.dev"><b>Live Website →</b></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🚦 Traffic Safety Center</h3>
+<p>A production website developed for a real traffic safety company, with a focus on performance, responsive design, SEO, and accessibility.</p>
+<p>The project also includes an automated QA testing agent designed to detect issues and improve reliability.</p>
+<p><b>Stack:</b> HTML, CSS, JavaScript, Bootstrap, Node.js</p>
+<p><a href="https://www.TrafficSafetyCenter.com"><b>Live Website →</b></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>📱 FinalIg</h3>
+<p>An Instagram-style social network featuring authentication, posts, likes, comments, user profiles, following, and media uploads.</p>
+<p>Built as a full-stack application with persistent user and content management.</p>
+<p><b>Stack:</b> Node.js, Express, MongoDB, JavaScript</p>
+</td>
+</tr>
 </table>
 
 ---
